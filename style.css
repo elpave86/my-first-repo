@@ -1,0 +1,14 @@
+.pic{
+border: 55px solid royalblue;
+margin: auto;
+position:absolute
+}
+ol{
+    color: #00ce56;
+    font-size: larger;
+}
+h1{
+    margin: 20px;
+    padding: 10px;
+    font-style: italic;
+}
